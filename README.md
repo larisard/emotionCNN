@@ -1,9 +1,11 @@
 ## emotionCNN
+
+<h1 align="center"> 🕹: Rede Neural Convolucional  </h1>
+
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 <html>
 
-<h1><b>🕹: Rede Neural Convolucional </b></h1>
-
-<h2> Objetivo: reconhecer emoções através da análise de imagem, idealizada como parte da minha monografia. </h2>
+- Objetivo: reconhecer emoções através da análise de imagem, idealizada como parte prática da minha monografia.
 
 <h2>Arquivo 1: classificador.py </h2>
 
@@ -23,4 +25,4 @@
 <h3>-- Base de dados utilizada:</h3>
 <a href='https://www.kaggle.com/datasets/msambare/fer2013/data' > Kaggle Fer-2013 </a>
 
-</html>
+:construction: Projeto em construção :construction:
