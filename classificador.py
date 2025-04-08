@@ -116,7 +116,6 @@ lossTest, accTest = classificadorEmocao.evaluate(baseTeste)
 print(f"\nAcurácia final no teste: {accTest:.4f}")
 
 
-arquivoFinal = 'modelo_final.pkl'
-with open(arquivoFinal, 'wb') as file:  
-    pickle.dump(classificadorEmocao, file)
+classificadorEmocao.save('modelo_final.keras')
+
 
